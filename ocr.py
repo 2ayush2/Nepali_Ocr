@@ -109,7 +109,7 @@ def run_ocr(image_path, weights_path, output_image_path, output_json_path):
 
 
 if __name__ == "__main__":
-    input_path = "output/processed_sample2.jpg"
+    input_path = "preprocessed/processed_with_boxes_sample2.jpg"
     weights_path = "weights/pan_exp/weights/best.pt"
     output_image_path = "output/annotated_sample2.jpg"
     output_json_path = "output/ocr_results_sample2.json"

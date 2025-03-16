@@ -481,6 +481,6 @@ def run_preprocess(input_path, output_dir):
 
 
 if __name__ == "__main__":
-    input_path = "input/sample2.jpg"
+    input_path = "input/sample3.jpg"
     output_dir = "output"
     preprocess_image_path = run_preprocess(input_path, output_dir)

@@ -3,53 +3,43 @@
     "results": [
         {
             "box": [
-                227,
-                472,
-                541,
-                527
+                250,
+                0,
+                1188,
+                89
             ],
-            "label": "Aadharnumber",
-            "text": "7753 5304 0003"
+            "label": "Goisymbol",
+            "text": "Processed sample2 jpg with Boxes"
         },
         {
             "box": [
-                55,
-                32,
-                137,
-                146
-            ],
-            "label": "Emblemlogo",
-            "text": "No text detected"
-        },
-        {
-            "box": [
-                177,
-                39,
-                667,
-                138
+                367,
+                366,
+                1236,
+                528
             ],
             "label": "Goisymbol",
             "text": "No text detected"
         },
         {
             "box": [
-                292,
-                234,
-                500,
-                274
+                294,
+                1149,
+                812,
+                1314
             ],
-            "label": "DOB",
-            "text": "DOB: 12/08/1983"
+            "label": "Aadharnumber",
+            "text": "No text detected"
         },
         {
             "box": [
-                196,
-                196,
-                383,
-                238
+                35,
+                149,
+                721,
+                336
             ],
-            "label": "Name",
-            "text": "Pankaj Kumar"
+            "label": "Goisymbol",
+            "text": "No text detected"
         }
     ]
 }
