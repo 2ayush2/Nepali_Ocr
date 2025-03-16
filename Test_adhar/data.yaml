@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['Dob', 'Gender', 'Name', 'adhar-number']
+
+roboflow:
+  workspace: pan-card-ocr
+  project: aadhaar-ocr-n25kh
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/pan-card-ocr/aadhaar-ocr-n25kh/dataset/4

@@ -1,0 +1,55 @@
+{
+    "image_path": "output/annotated_sample2.jpg",
+    "results": [
+        {
+            "box": [
+                227,
+                472,
+                541,
+                527
+            ],
+            "label": "Aadharnumber",
+            "text": "7753 5304 0003"
+        },
+        {
+            "box": [
+                55,
+                32,
+                137,
+                146
+            ],
+            "label": "Emblemlogo",
+            "text": "No text detected"
+        },
+        {
+            "box": [
+                177,
+                39,
+                667,
+                138
+            ],
+            "label": "Goisymbol",
+            "text": "No text detected"
+        },
+        {
+            "box": [
+                292,
+                234,
+                500,
+                274
+            ],
+            "label": "DOB",
+            "text": "DOB: 12/08/1983"
+        },
+        {
+            "box": [
+                196,
+                196,
+                383,
+                238
+            ],
+            "label": "Name",
+            "text": "Pankaj Kumar"
+        }
+    ]
+}
