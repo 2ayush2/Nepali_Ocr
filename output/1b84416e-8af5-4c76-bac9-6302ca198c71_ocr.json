@@ -1,0 +1,25 @@
+{
+    "image_path": "output\\1b84416e-8af5-4c76-bac9-6302ca198c71_annotated.jpg",
+    "results": [
+        {
+            "box": [
+                164,
+                114,
+                247,
+                128
+            ],
+            "label": "DOB",
+            "text": "Male"
+        },
+        {
+            "box": [
+                165,
+                61,
+                260,
+                95
+            ],
+            "label": "Name",
+            "text": "T&t FAR"
+        }
+    ]
+}

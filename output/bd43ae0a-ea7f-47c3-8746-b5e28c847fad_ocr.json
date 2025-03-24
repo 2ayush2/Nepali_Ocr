@@ -1,0 +1,35 @@
+{
+    "image_path": "output\\bd43ae0a-ea7f-47c3-8746-b5e28c847fad_annotated.jpg",
+    "results": [
+        {
+            "box": [
+                267,
+                115,
+                385,
+                141
+            ],
+            "label": "Name",
+            "text": "Sarvjot Kaur"
+        },
+        {
+            "box": [
+                323,
+                223,
+                456,
+                252
+            ],
+            "label": "DOB",
+            "text": "D0B 130841979"
+        },
+        {
+            "box": [
+                269,
+                299,
+                487,
+                345
+            ],
+            "label": "Aadharnumber",
+            "text": "5218 3335 0190"
+        }
+    ]
+}

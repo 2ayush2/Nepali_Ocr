@@ -1,0 +1,5 @@
+train: C:/nabil/Nepali_Ocr/test-img/train/images
+val: C:/nabil/Nepali_Ocr/test-img/test/images
+
+nc: 3
+names: ['Name', 'DOB', 'Gender']
